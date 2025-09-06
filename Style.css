@@ -1,0 +1,78 @@
+#Uia{
+	
+	background-image: url("https://avatars.mds.yandex.net/i?id=cf9cdae02a19da54ab95769bda1ea824_l-4828150-images-thumbs&n=13");
+}
+
+#Me {
+	font-size: 55px;
+	text-shadow: 1px 1px 10px #FFFFFF;
+}
+
+#Poopie {
+	text-align: center;
+	font-size: 70px;
+	border: 10px double;
+	background-color: #FFFFFF;
+}
+
+#Ski {
+	font-size: 25px;
+	color: #000000;
+	border: 10px double;
+	background-color: #FFFFFF;
+}
+
+#You {
+	font-size: 35px;
+	text-align: center;
+
+}
+
+#Lee {
+
+	font-size: 25px;
+	list-style-position: inside;
+	text-align: center;
+	padding-left: 0;
+	border: 10px double;
+	background-color: #FFFFFF;
+
+}
+#Him {
+	
+}
+
+#Spe {
+	font-size: 25px;
+	color: #000000;
+}
+
+#chl {
+	font-size: 55px;
+	text-shadow: 1px 1px 10px #FFFFFF;
+}
+
+
+#MK {
+	font-size: 55px;
+	text-align: center;
+	text-shadow: 1px 1px 10px #FFFFFF;
+}
+
+#GG {
+	font-size: 25px;
+	list-style-position: inside;
+	text-align: center;
+	padding-left: 0;
+	border: 10px double;
+	background-color: #FFFFFF;
+}
+
+#tre {
+	font-size: 45px;
+	text-align: center;
+	color: black;
+	border: 10px double;
+	border-color: black;
+	background-color: red;
+}
